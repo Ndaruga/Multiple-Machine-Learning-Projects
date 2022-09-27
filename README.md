@@ -3,5 +3,6 @@ This repository contains multiple machine learning projects for supervised, semi
 
 
 # 1. The Titanic
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.historic-uk.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fthe-sinking-of-the-rms-titanic.jpg&imgrefurl=https%3A%2F%2Fwww.historic-uk.com%2FHistoryUK%2FHistoryofBritain%2FRMS-Titanic-the-unsinkable-ship%2F&tbnid=Gd8IemHRZi8XWM&vet=12ahUKEwjXt67nw7T6AhVJrxoKHYzaCFwQMygTegUIARCNAg..i&docid=R3uiBhoT-JYG-M&w=2048&h=1053&q=the%20titanic&ved=2ahUKEwjXt67nw7T6AhVJrxoKHYzaCFwQMygTegUIARCNAg
-This is a predictive machine learning project that tries to predict 
+![image](https://user-images.githubusercontent.com/68260816/192471952-4018e9da-78f3-4527-9d57-af513a16dbce.png)
+
+This is a predictive machine learning project that tries to predict the survivability of a person on board the titanic.
