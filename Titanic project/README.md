@@ -7,4 +7,19 @@ It is also an unfortunate coincidence that, at the time of the horrific accident
 while some people 'miraclously' survived, there seeems to be some pattern of people who survived.
 
 ### The Objective
-##### We want to find out what characters of people were likely to survive the incident
+We want to find out what characters of people were likely to survive the incident
+
+
+## Primary Data analysis
+The Titanic data folder contains 3 files
+<ul>
+<li>Training set</li>
+<li>Test set</li>
+<li>Gender submission</li>
+</ul>
+
+### Train set
+It contains 891 rows and 12 columns
+
+
+
