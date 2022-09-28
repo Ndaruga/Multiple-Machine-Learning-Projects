@@ -8,3 +8,6 @@ This repository contains multiple machine learning projects for supervised, semi
 
 
 This is a predictive machine learning project that tries to predict the survivability of a person on board the titanic.
+
+
+# 2. 
