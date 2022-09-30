@@ -15,7 +15,7 @@ The Titanic data folder contains 3 files
 <ul>
 <li>Training set</li>
 <li>Test set</li>
-<li>Gender submission</li>
+<li>Model evaluation file</li>
 </ul>
 
 ### Train set
