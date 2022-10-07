@@ -10,7 +10,7 @@ This is a predictive machine learning project that tries to predict the survivab
 
 
 # 2. <a href="https://github.com/Ndaruga/Multiple-Machine-Learning-Projects/tree/main/London-Fire-Brigade">London Fire Brigade</a>
-![image](https://user-images.githubusercontent.com/68260816/193344596-2d7c3dd3-532a-434a-82dd-3b9bf38b8e64.png)
+![image](https://user-images.githubusercontent.com/68260816/194648963-01152420-316b-4e92-b530-e15281c88e3a.png)
 
 An unsupervised Machine learning model for clustering incidences reported to the London Fire Brigade
 
