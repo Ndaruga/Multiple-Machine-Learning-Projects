@@ -10,12 +10,13 @@ This is a predictive machine learning project that tries to predict the survivab
 
 
 # 2. <a href="https://github.com/Ndaruga/Multiple-Machine-Learning-Projects/tree/main/London-Fire-Brigade">London Fire Brigade</a>
-![image](https://user-images.githubusercontent.com/68260816/194648963-01152420-316b-4e92-b530-e15281c88e3a.png)
+![image](https://user-images.githubusercontent.com/68260816/194649188-31ab07ce-7a05-4d12-a121-2bef514d6c4b.png)
 
 An unsupervised Machine learning model for clustering incidences reported to the London Fire Brigade
 
 
 # 3. <a href = "https://github.com/Ndaruga/Multiple-Machine-Learning-Projects/tree/main/Dimintionality%20reduction%20on%20MNIST%20data">Dimensionality reduction on MNIST Data</a>
-![image](https://user-images.githubusercontent.com/68260816/194648008-7fecb9b4-0013-4512-a17f-4cb583d61b88.png)
+![th](https://user-images.githubusercontent.com/68260816/194649700-7fe9cccb-9903-4462-a108-6cd5384abab7.jpg)
+
 
 An Unsupervised Model that uses 784 dimentions from each image to cluster data using t-SNE and SDD algorithms
