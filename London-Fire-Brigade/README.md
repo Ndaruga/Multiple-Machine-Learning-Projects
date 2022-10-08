@@ -27,6 +27,6 @@ In the LFB-analysis.ipynb file, We start by importing the necessary libraries.
 We go further to import the download_data.py file. This will help download and extract data.
 ![image](https://user-images.githubusercontent.com/68260816/194727520-abe2aead-36d7-45ea-b964-c1682f80c271.png)
 
-
+As shown above the file is imported as a module and donloads the data.
 
 
