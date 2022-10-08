@@ -6,7 +6,7 @@ Any incident that is reported to this department is recorded and data updated on
 ### The data.
 The <a href = "https://data.london.gov.uk/dataset/london-fire-brigade-incident-records" target = "_blank">LFB dataset</a> is available for public use.
 
-At the time of writing this file, the data contained in a CSV file has a shape of 
+At the time of writing this file, the data contained in a CSV file has a shape of 104000 rows
 
 
 
