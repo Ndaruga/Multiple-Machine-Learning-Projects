@@ -1,4 +1,4 @@
-# Multiple-Machine-Learning-Projects
+# Multiple Machine Learning Projects
 This repository contains multiple machine learning projects for supervised, semi-supervised, unsupervised and reinforcement machine learning 
 
 
@@ -22,6 +22,5 @@ An unsupervised Machine learning model for clustering incidences reported to the
 
 # 3. <a href = "https://github.com/Ndaruga/Multiple-Machine-Learning-Projects/tree/main/Dimintionality%20reduction%20on%20MNIST%20data">Dimensionality reduction on MNIST Data</a>
 ![th](https://user-images.githubusercontent.com/68260816/194649700-7fe9cccb-9903-4462-a108-6cd5384abab7.jpg)
-
 
 An Unsupervised Model that uses 784 dimentions from each image to cluster data using t-SNE and SDD algorithms
