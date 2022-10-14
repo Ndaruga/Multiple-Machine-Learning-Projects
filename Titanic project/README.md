@@ -22,4 +22,16 @@ The Titanic data folder contains 3 files
 It contains 891 rows and 12 columns
 
 
+Missing Values insights
+In the train data columns with missing values are:
+
+Age : 177 values
+Cabin : 678 Values
+Embarked : 2 Values
+
+In the test data columns with missing values are:
+Age : 86 values
+Cabin : 327 Values
+
+
 
