@@ -51,6 +51,8 @@ if (os.path.exists("archive.zip")) == True:
 
 # Extract the zip file
     patoolib.extract_archive('archive.zip')
+    os.chdir(data_dir)
+    if 
     print("\nExtract complete")
     
 
