@@ -49,13 +49,6 @@ if (os.path.exists("archive.zip")) == True:
     download_data(URL, "archive.zip")
     print("\n")
 
-# Extract the zip file
-    patoolib.extract_archive('archive.zip')
-    os.chdir(data_dir)
-    if 
-    print("\nExtract complete")
-    
-
 else:
     print('Starting download ...')
     download_data(URL, "archive.zip")    
